@@ -19,6 +19,11 @@ Chrome extension to show a code tree on GitLab  :)
 
 
 ## Change Log
+ - v1.5
+    - add expand the current file path
+ - v1.4
+    - fix bug On gitlab 10.x, don't cover header and sidebar
+    - container width resizable
  - v1.3
     - fix bug On gitlab 10.x, rss_token instead of private_token.
  - v1.2
@@ -35,4 +40,3 @@ Chrome extension to show a code tree on GitLab  :)
 
 - Email：[linsage@live.com](mailto:linsage@live.com)
 - Blog：[https://linsage.com](https://linsage.com)
-- Wechat：linsage
